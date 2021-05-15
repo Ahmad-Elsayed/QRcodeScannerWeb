@@ -1,4 +1,4 @@
-## The App is deployed at (https://qrcode-scanner-web.web.app)
+# The App is deployed at (https://qrcode-scanner-web.web.app).
 
 # Getting Started with Create React App
 
